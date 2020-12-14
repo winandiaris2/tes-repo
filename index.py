@@ -1,1 +1,1 @@
-print('aku python sekali')
+print('aku python sekali lagi')
